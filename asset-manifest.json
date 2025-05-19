@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simulacion-termodinamica/static/css/main.63e9e3e8.css",
+    "main.js": "/simulacion-termodinamica/static/js/main.b47ab65c.js",
+    "static/js/453.207682ab.chunk.js": "/simulacion-termodinamica/static/js/453.207682ab.chunk.js",
+    "index.html": "/simulacion-termodinamica/index.html",
+    "main.63e9e3e8.css.map": "/simulacion-termodinamica/static/css/main.63e9e3e8.css.map",
+    "main.b47ab65c.js.map": "/simulacion-termodinamica/static/js/main.b47ab65c.js.map",
+    "453.207682ab.chunk.js.map": "/simulacion-termodinamica/static/js/453.207682ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63e9e3e8.css",
+    "static/js/main.b47ab65c.js"
+  ]
+}
